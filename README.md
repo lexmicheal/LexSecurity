@@ -26,13 +26,13 @@ Port Filtering and Secure Configurations
 
 Certifications:
 
-1) Automate Cybersecurity Tasks with Python
+| Automate Cybersecurity Tasks with Python | https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b
 
-2) Tools of the Trade: Linux and SQL
+| Tools of the Trade: Linux and SQL | https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e
 
-3) Foundations of Cybersecurity
+| Foundations of Cybersecurity | https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f
 
-4) Sound the Alarm: Detection and Responce
+| Sound the Alarm: Detection and Responce | 
 
 5) Assets, Threats and Vulnerabilities
 

@@ -35,7 +35,7 @@ Port Filtering and Secure Configurations
 [![Foundations of Cybersecurity](https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-4D4D4D?style=for-the-badge&logo=Cybersecurity&logoColor=white)](https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f)
 [![Sound the Alarm: Detection and Response](https://img.shields.io/badge/-Sound%20the%20Alarm%3A%20Detection%20and%20Response-064600?style=for-the-badge&logoColor=white)](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
 
-[![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-000080?style=for-the-badge&logoColor=white)](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
+[![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-000080?style=for-the-badge&logoColor=white)](https://coursera.org/share/40a104d9d65b8e6e49bf05b9c4aeb419)
 [![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)
 
 [![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/-Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-005571?style=for-the-badge&logo=Elastic&logoColor=white)](https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9)

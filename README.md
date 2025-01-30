@@ -33,7 +33,10 @@ Port Filtering and Secure Configurations
 [![Tools of the Trade: Linux & SQL](https://img.shields.io/badge/-Tools%20of%20the%20Trade%3A%20Linux%20%26%20SQL-007ACC?style=for-the-badge&logo=Linux&logoColor=white)](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e)
 
 [![Foundations of Cybersecurity](https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-4D4D4D?style=for-the-badge&logo=Cybersecurity&logoColor=white)](https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f)
+[![Sound the Alarm: Detection and Response](https://img.shields.io/badge/-Sound%20the%20Alarm%3A%20Detection%20and%20Response-064600?style=for-the-badge&logoColor=white)](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
 
+[![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-000080?style=for-the-badge&logoColor=white)](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
+[![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)
 
  
 
@@ -141,3 +144,10 @@ Results/Outcome:
 
 ![Sound the Alarm: Detection and Response](https://img.shields.io/badge/-Sound%20the%20Alarm%3A%20Detection%20and%20Response-064600?style=for-the-badge&logoColor=white)
 
+![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-000080?style=for-the-badge&logoColor=white)
+
+update this to play it safe manage security risks https://camo.githubusercontent.com/31ba8c8c165f85250e5d3bbd4e034b9847da4fa1dabea06fe05debfa97a646d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53706c756e6b2d3030303030303f267374796c653d666f722d7468652d6261646765266c6f676f3d53706c756e6b266c6f676f436f6c6f723d7768697465
+
+![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+
+[![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)

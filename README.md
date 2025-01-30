@@ -8,22 +8,29 @@
 A passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Detection and Responce,Threat and Vulnerabilities Protection, & Network Security. I enjoy working on projects that involve risk management, detecting vulnerabilities, security automation & incident responce. I'm also eager to learn and grow in this field of cybersecurity.
 
 ## objective 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-
-
-
-
+My journey in helping family, friends, and coworkers with everyday computer tasks has led me to develop a passion for cybersecurity, and I am now focused in transitioning into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 
 ## skills
 
 Programming Languages: Python, SQL             
-                                                 
-Operating Systems: Linux (Bash scripting), Windows
 
-Security Tools: Wireshark, Splunk, TCPdump
+operating systems: Linux (Bash scripting)
 
+Network Traffic Monitoring and Attack Detection
 
+Security Automation with Shuffle SOAR
+
+Incident Response Planning and Execution
+
+Scripting and Automation for Threat Mitigation
+
+SIEM Implementation and Log Analysis
+
+Case Management with TheHive
+
+Security Tools: Wireshark, Splunk, and TCPdump
+                                                
+ 
 
 ##  Certifications
 
@@ -150,3 +157,11 @@ Multi-factor Authentication (MFA)
 implementation
 
 Port Filtering and Secure Configurations
+
+## skills
+
+Programming Languages: Python, SQL             
+                                                 
+Operating Systems: Linux (Bash scripting), Windows
+
+Security Tools: Wireshark, Splunk, TCPdump

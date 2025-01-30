@@ -1,5 +1,8 @@
-# LexSecurity
-A collection of my Cybersecurity skills.
+## Hello, I'm Lex
+
+[LinkedIn](https://www.linkedin.com/in/alex-dunbar-724469348)
+
+
 
 I'm Alex, a passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Detection and Responce,Threat and Vulnerabilities Protection, & Network Security. I enjoy working on projects that involve risk management, detecting vulnerabilities, security automation & incident responce. I'm also eager to learn and grow in this field of cybersecurity.
 

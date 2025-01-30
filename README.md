@@ -131,10 +131,7 @@ Results/Outcome:
 
 
 
-[![Python](https://github.com/lexmicheal/LexSecurity/blob/main/image.png?raw=true)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
 
- 
-
-
+[<img src="https://primeonlinecourses.com/wp-content/uploads/2023/09/google-IT-automation-with-professional-certificate-768x289.webp" width="200">](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
 
 

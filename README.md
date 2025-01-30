@@ -41,28 +41,6 @@ Port Filtering and Secure Configurations
 [![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/-Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-005571?style=for-the-badge&logo=Elastic&logoColor=white)](https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9)
 
  
-
-| [Tools of the Trade: Linux and SQL](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e) |
- 
- 
-
-| [Foundations of Cybersecurity](https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f) |
- 
- 
-
-| [Sound the Alarm: Detection and Responce](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1) |
- 
-
-| [Assets, Threats and Vulnerabilities](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1) |
- 
-
-| [Play It Safe: Manage Security Risks](https://coursera.org/share/7d3483eddb86948ef2f3758654835015) |
- 
-
-| [Connect and Protect: Networks and Network Security](https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9) |
- 
-
-
 ## Tools
 
 ## Network

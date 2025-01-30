@@ -38,6 +38,8 @@ Port Filtering and Secure Configurations
 [![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-000080?style=for-the-badge&logoColor=white)](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
 [![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)
 
+[![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/-Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-005571?style=for-the-badge&logo=Elastic&logoColor=white)](https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9)
+
  
 
 | [Tools of the Trade: Linux and SQL](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e) |
@@ -151,3 +153,5 @@ update this to play it safe manage security risks https://camo.githubusercontent
 ![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 
 [![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)
+
+![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/-Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-005571?style=for-the-badge&logo=Elastic&logoColor=white)

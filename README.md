@@ -3,7 +3,7 @@ A collection of my Cybersecurity skills.
 
 I'm Alex, a passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Detection and Responce,Threat and Vulnerabilities Protection, & Network Security. I enjoy working on projects that involve risk management, detecting vulnerabilities, security automation & incident responce. I'm also eager to learn and grow in this field of cybersecurity.
 
-Skills:
+## skills
 
 Programming Languages: Python, SQL 
 
@@ -11,7 +11,7 @@ Operating Systems: Linux (Bash scripting), Windows
 
 Security Tools: Wireshark, Splunk, TCPdump
 
-Expertise:
+## Expertise
 
 Threat and vulnerability Protection
 
@@ -24,21 +24,21 @@ implementation
 
 Port Filtering and Secure Configurations
 
-Certifications:
+##  Certifications
 
-| Automate Cybersecurity Tasks with Python | https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b
+| Automate Cybersecurity Tasks with Python | https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b |
 
-| Tools of the Trade: Linux and SQL | https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e
+| Tools of the Trade: Linux and SQL | https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e |
 
-| Foundations of Cybersecurity | https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f
+| Foundations of Cybersecurity | https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f |
 
-| Sound the Alarm: Detection and Responce | 
+| Sound the Alarm: Detection and Responce | https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1 |
 
-5) Assets, Threats and Vulnerabilities
+| Assets, Threats and Vulnerabilities | https://coursera.org/share/40a104d9d65b8e6e49bf05b9c4aeb419 |
 
-6) Play it Safe: Manage Security Risks
+| Play it Safe: Manage Security Risks | https://coursera.org/share/7d3483eddb86948ef2f3758654835015 |
 
-7) Connect and Protect: Networks and Network Security
+| Connect and Protect: Networks and Network Security | https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9 |
 
 
 Projects

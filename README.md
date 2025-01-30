@@ -28,7 +28,10 @@ Port Filtering and Secure Configurations
 
 ##  Certifications
 
-| [ Automate Cybersecurity Tasks with Python](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b) |
+
+[![Automate Cybersecurity with Python](https://img.shields.io/badge/-Automate%20Cybersecurity%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
+
+
  
 
 | [Tools of the Trade: Linux and SQL](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e) |
@@ -130,8 +133,8 @@ Results/Outcome:
  efficient content access systems.
 
 
+[![Automate Cybersecurity with Python](https://img.shields.io/badge/-Automate%20Cybersecurity%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
 
 
-[<img src="https://primeonlinecourses.com/wp-content/uploads/2023/09/google-IT-automation-with-professional-certificate-768x289.webp" width="200">](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
-
-
+![Automation Tasks with Python](https://img.shields.io/badge/-Automation%20Tasks%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)
+| [ Automate Cybersecurity Tasks with Python](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b) |

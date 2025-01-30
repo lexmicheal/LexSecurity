@@ -1,6 +1,6 @@
 ## Hello, I'm Lex
 
-[![LinkedIn](PASTE-YOUR-IMAGE-URL-HERE)](https://www.linkedin.com/in/alex-dunbar-724469348)
+[![LinkedIn](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373262313f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465.svg)](https://www.linkedin.com/in/alex-dunbar-724469348)
 
 
 A passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Detection and Responce,Threat and Vulnerabilities Protection, & Network Security. I enjoy working on projects that involve risk management, detecting vulnerabilities, security automation & incident responce. I'm also eager to learn and grow in this field of cybersecurity.

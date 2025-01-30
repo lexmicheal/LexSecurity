@@ -32,6 +32,8 @@ Port Filtering and Secure Configurations
 [![Automate Cybersecurity with Python](https://img.shields.io/badge/-Automate%20Cybersecurity%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
 [![Tools of the Trade: Linux & SQL](https://img.shields.io/badge/-Tools%20of%20the%20Trade%3A%20Linux%20%26%20SQL-007ACC?style=for-the-badge&logo=Linux&logoColor=white)](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e)
 
+[![Foundations of Cybersecurity](https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-4D4D4D?style=for-the-badge&logo=Cybersecurity&logoColor=white)](https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f)
+
 
  
 
@@ -131,13 +133,11 @@ Results/Outcome:
  addresses were promptly removed.
 
  Steamlined the process, resulting in a more secure and
- efficient content access systems.
+ efficient content access systems![Tools of the Trade: Linux & SQL](https://img.shields.io/badge/-Tools%20of%20the%20Trade%3A%20Linux%20%26%20SQL-007ACC?style=for-thebadge&logo=Linux&logoColor=white)
 
-![Tools of the Trade: Linux & SQL](https://img.shields.io/badge/-Tools%20of%20the%20Trade%3A%20Linux%20%26%20SQL-007ACC?style=for-the-badge&logo=Linux&logoColor=white)
-
+![Foundations of Cybersecurity](https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-4D4D4D?style=for-the-badge&logo=Cybersecurity&logoColor=white)
 
 [![Automate Cybersecurity with Python](https://img.shields.io/badge/-Automate%20Cybersecurity%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
 
+![Sound the Alarm: Detection and Response](https://img.shields.io/badge/-Sound%20the%20Alarm%3A%20Detection%20and%20Response-064600?style=for-the-badge&logoColor=white)
 
-![Automation Tasks with Python](https://img.shields.io/badge/-Automation%20Tasks%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)
-| [ Automate Cybersecurity Tasks with Python](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b) |

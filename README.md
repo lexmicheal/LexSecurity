@@ -75,8 +75,7 @@ Port Filtering and Secure Configurations
 
 ## SIEM
 
-![image](https://github.com/user-attachments/assets/5d66cecd-0096-4382-9bd2-4420d85be9b8)![image](https://github.com/user-attachments/assets/308a46b2-cfb9-4fb9-b1d7-c2baf4727dfd)![image](https://github.com/user-attachments/assets/3a9e1e75-762e-4435-a6d1-146ac614b08e)
-
+![image](https://github.com/user-attachments/assets/308a46b2-cfb9-4fb9-b1d7-c2baf4727dfd)![image](https://github.com/user-attachments/assets/3a9e1e75-762e-4435-a6d1-146ac614b08e)
 
 
 

@@ -134,3 +134,4 @@ implementation
 
 Port Filtering and Secure Configurations
 
+[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://raw.githubusercontent.com/lexmicheal/LexSecurity/refs/heads/main/Automation_script.py?token=GHSAT0AAAAAAC545VDWLHVQYGP2BZNF6MIOZ44BDKA)

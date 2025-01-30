@@ -28,28 +28,28 @@ Port Filtering and Secure Configurations
 
 ##  Certifications
 
-| Automate Cybersecurity Tasks with Python | [Certificate 1](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b) |
+| [ Automate Cybersecurity Tasks with Python](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b) |
  
 
-| Tools of the Trade: Linux and SQL | [Certificate 2](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e) |
- 
- 
-
-| Foundations of Cybersecurity | [Certificate 3](https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f) |
+| [Tools of the Trade: Linux and SQL](https://coursera.org/share/ef69ff986edf5a29aaa5a463e9dc5b9e) |
  
  
 
-| Sound the Alarm: Detection and Responce | [Certificate 4](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
- |
+| [Foundations of Cybersecurity](https://coursera.org/share/4ab30be9a0436ecdd4f892bd5af2f32f) |
+ 
+ 
 
-| Assets, Threats and Vulnerabilities | [Certificate 5](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1)
- |
+| [Sound the Alarm: Detection and Responce](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1) |
+ 
 
-| Play it Safe: Manage Security Risks | [Certificate 6](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)
- |
+| [Assets, Threats and Vulnerabilities](https://coursera.org/share/1c1ad563ec316c5cca946679a9f129c1) |
+ 
 
-| Connect and Protect: Networks and Network Security | [Certificate 7](https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9)
- |
+| [Play It Safe: Manage Security Risks](https://coursera.org/share/7d3483eddb86948ef2f3758654835015) |
+ 
+
+| [Connect and Protect: Networks and Network Security](https://coursera.org/share/5915fc00b13fae2e64b473c2a2e138f9) |
+ 
 
 
 ## Tools

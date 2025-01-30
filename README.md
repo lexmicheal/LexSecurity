@@ -129,11 +129,9 @@ Results/Outcome:
  Steamlined the process, resulting in a more secure and
  efficient content access systems.
 
-  
-[![Python]"https://raw.githubusercontent.com/your-username/your-repo/main/image.png)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b"
 
-  
-[![Python](https://github.com/user-attachments/assets/4G9jkLQWCbhWUvhtkjBQmA)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
+
+[![Python](https://github.com/lexmicheal/LexSecurity/blob/main/image.png?raw=true)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
 
  
 

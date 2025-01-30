@@ -52,7 +52,19 @@ Port Filtering and Secure Configurations
 
 ## Tools
 
+## Network
+
 ![image](https://github.com/user-attachments/assets/de7a015d-8dd7-4c74-9262-77d9ef9b6608)![image](https://github.com/user-attachments/assets/f0e09856-229b-406c-9c05-6f166d6afd04)![image](https://github.com/user-attachments/assets/3b97d368-76fd-4a0e-9473-01741e065279)
+
+## Endpoint
+
+![image](https://github.com/user-attachments/assets/4855a011-7324-4c33-bc82-fe168f178c8c)![image](https://github.com/user-attachments/assets/2e9ac4cb-f636-4822-aad0-d4675a5e2e5a)
+
+## SIEM
+
+![image](https://github.com/user-attachments/assets/5d66cecd-0096-4382-9bd2-4420d85be9b8)![image](https://github.com/user-attachments/assets/308a46b2-cfb9-4fb9-b1d7-c2baf4727dfd)![image](https://github.com/user-attachments/assets/3a9e1e75-762e-4435-a6d1-146ac614b08e)
+
+
 
 
 

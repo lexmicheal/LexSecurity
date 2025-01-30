@@ -7,8 +7,8 @@ A passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Det
 
 ## skills
 
-Programming Languages: Python, SQL 
-
+Programming Languages: Python, SQL             
+                                                 
 Operating Systems: Linux (Bash scripting), Windows
 
 Security Tools: Wireshark, Splunk, TCPdump
@@ -60,8 +60,7 @@ Port Filtering and Secure Configurations
 
 
 
-
-Projects
+## Projects
 
 Automated IP Allow List Management
 
@@ -116,20 +115,19 @@ Results/Outcome:
  addresses were promptly removed.
 
  Steamlined the process, resulting in a more secure and
- efficient content access systems![Tools of the Trade: Linux & SQL](https://img.shields.io/badge/-Tools%20of%20the%20Trade%3A%20Linux%20%26%20SQL-007ACC?style=for-thebadge&logo=Linux&logoColor=white)
+ 
+efficient content access systems
 
-![Foundations of Cybersecurity](https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-4D4D4D?style=for-the-badge&logo=Cybersecurity&logoColor=white)
 
-[![Automate Cybersecurity with Python](https://img.shields.io/badge/-Automate%20Cybersecurity%20with%20Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://coursera.org/share/550e29f0a76a16f21adddb213c3f070b)
+## Expertise
 
-![Sound the Alarm: Detection and Response](https://img.shields.io/badge/-Sound%20the%20Alarm%3A%20Detection%20and%20Response-064600?style=for-the-badge&logoColor=white)
+Threat and vulnerability Protection
 
-![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/-Assets%2C%20Threats%2C%20and%20Vulnerabilities-000080?style=for-the-badge&logoColor=white)
+Incident Detection and Responce
 
-update this to play it safe manage security risks https://camo.githubusercontent.com/31ba8c8c165f85250e5d3bbd4e034b9847da4fa1dabea06fe05debfa97a646d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53706c756e6b2d3030303030303f267374796c653d666f722d7468652d6261646765266c6f676f3d53706c756e6b266c6f676f436f6c6f723d7768697465
+Network Security and Traffic Analysis
 
-![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+Multi-factor Authentication (MFA)
+implementation
 
-[![Play It Safe: Manage Security Risks](https://img.shields.io/badge/-Play%20It%20Safe%3A%20Manage%20Security%20Risks-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://coursera.org/share/7d3483eddb86948ef2f3758654835015)
-
-![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/-Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-005571?style=for-the-badge&logo=Elastic&logoColor=white)
+Port Filtering and Secure Configurations

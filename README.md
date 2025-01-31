@@ -67,6 +67,7 @@ Port Filtering and Secure Configurations
 
 ## Network
 
+[![image](https://github.com/user-attachments/assets/de7a015d-8dd7-4c74-9262-77d9ef9b6608)](https://github.com/user-attachments/assets/de7a015d-8dd7-4c74-9262-77d9ef9b6608)
 ![image](https://github.com/user-attachments/assets/de7a015d-8dd7-4c74-9262-77d9ef9b6608)![image](https://github.com/user-attachments/assets/f0e09856-229b-406c-9c05-6f166d6afd04)![image](https://github.com/user-attachments/assets/3b97d368-76fd-4a0e-9473-01741e065279)
 
 ## Endpoint
@@ -131,5 +132,5 @@ efficient content access systems
 
 
 
-
+![image](https://github.com/user-attachments/assets/de7a015d-8dd7-4c74-9262-77d9ef9b6608)
 

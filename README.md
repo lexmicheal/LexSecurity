@@ -5,7 +5,7 @@
 
 
 
-A passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Detection and Responce,Threat and Vulnerabilities Protection, & Network Security. I enjoy working on projects that involve risk management, detecting vulnerabilities, security automation & incident responce. I'm also eager to learn and grow in this field of cybersecurity.
+A passionate cybersecurity enthusiast with experience in Python, Linux, SQL, Detection and Response,Threat and Vulnerabilities Protection, & Network Security. I enjoy working on projects that involve risk management, detecting vulnerabilities, security automation & incident response. I'm also eager to learn and grow in this field of cybersecurity.
 
 ## objective 
 My journey in helping family, friends, and coworkers with everyday computer tasks has led me to develop a passion for cybersecurity, and I am now focused in transitioning into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
@@ -52,7 +52,7 @@ Security Tools: Wireshark, Splunk, and TCPdump
 
 Threat and vulnerability Protection
 
-Incident Detection and Responce
+Incident Detection and Response
 
 Network Security and Traffic Analysis
 

@@ -83,7 +83,7 @@ Port Filtering and Secure Configurations
 
 ## Projects
 
-Automated IP Allow List Management
+## Automated IP Allow List Management
 
 Description:
 Designed and Implemented an algorithm to automate the
@@ -96,13 +96,13 @@ from the allow list.
 [![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://raw.githubusercontent.com/lexmicheal/LexSecurity/refs/heads/main/Automation_script.py?token=GHSAT0AAAAAAC545VDWLHVQYGP2BZNF6MIOZ44BDKA)
 
 
-Key Features:
+## Key Features
 
- Developed an algorithm to cross-reference allow_list.txt
- with a separate remove_list.txt file to identify outdated or
+ Developed an algorithm to cross-reference allow_list file
+ with a separate remove_list file to identify outdated or
  unauthorized IP addesses.
 
- Automated the process of updating allow_list.txt by removing 
+ Automated the process of updating the allow_list by removing 
  flagged IP addresses.
 
  Ensured compliance with access control policies by maintaining
@@ -115,8 +115,9 @@ Key Features:
 
  File Handling Techniques: 
 
+ Wireshark
  
-Results/Outcome:
+## Outcome
 
  Eliminated manual errors and reduced the time required to
  update the IP allow list.
@@ -129,38 +130,6 @@ Results/Outcome:
 efficient content access systems
 
 
-## Expertise
-
-Threat and vulnerability Protection
-
-Incident Detection and Responce
-
-Network Security and Traffic Analysis
-
-Multi-factor Authentication (MFA)
-implementation
-
-Port Filtering and Secure Configurations
 
 
 
-## Expertise
-
-Threat and vulnerability Protection
-
-Incident Detection and Responce
-
-Network Security and Traffic Analysis
-
-Multi-factor Authentication (MFA)
-implementation
-
-Port Filtering and Secure Configurations
-
-## skills
-
-Programming Languages: Python, SQL             
-                                                 
-Operating Systems: Linux (Bash scripting), Windows
-
-Security Tools: Wireshark, Splunk, TCPdump

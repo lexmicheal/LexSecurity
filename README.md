@@ -141,3 +141,6 @@ efficient content access systems
 
 
 [![Alt text](./images/myimage.png)](https://example.com)
+
+
+[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)]

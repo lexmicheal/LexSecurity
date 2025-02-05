@@ -95,7 +95,7 @@ and efficient access control to restricted content by
 identifying and removing unauthorized IP addresses
 from the allow list.
 
-![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)
+[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://raw.githubusercontent.com/lexmicheal/LexSecurity/refs/heads/main/Automation_script.py?token=GHSAT0AAAAAAC545VDXMAQHBW4LI34NXUISZ5DEBUA)
 
 
 ## Key Features

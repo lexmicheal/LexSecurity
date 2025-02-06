@@ -111,11 +111,11 @@ from the allow list.
   an up-to-date allow list with minimal manual intervention.
 
 
-## Tools and Technologies Used:
+## Tools and Technologies Used
 
  Programming Language: Python
 
- File Handling Techniques: 
+ File Handling Techniques
 
  Wireshark
  

@@ -132,4 +132,5 @@ from the allow list.
 - efficient content access systems
 
 
+[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://raw.githubusercontent.com/lexmicheal/LexSecurity/main/Automation_script.py)
 

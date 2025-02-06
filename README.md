@@ -131,7 +131,3 @@ from the allow list.
  
 - efficient content access systems
 
-[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://raw.githubusercontent.com/lexmicheal/LexSecurity/refs/heads/main/Automation_script.py?token=GHSAT0AAAAAAC545VDXMAQHBW4LI34NXUISZ5DEBUA)
-
-
-[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://gist.githubusercontent.com/lexmicheal/ff1068a23da8c7dc831043e528c28707/raw/7fff34ccf042df88324c7e0e1b72a52749c92079/Automation_script.py)

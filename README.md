@@ -14,7 +14,7 @@ My journey in helping family, friends, and coworkers with everyday computer task
 
 - Programming Languages: Python, SQL             
 
-- operating systems: Linux (Bash scripting)
+- Operating Systems: Linux (Bash Scripting)
 
 - Network Traffic Monitoring and Attack Detection
 
@@ -50,14 +50,14 @@ My journey in helping family, friends, and coworkers with everyday computer task
 
 ## Expertise
 
-- Threat and vulnerability Protection
+- Threat and Vulnerability Protection
 
 - Incident Detection and Response
 
 - Network Security and Traffic Analysis
 
 - Multi-factor Authentication (MFA)
-  implementation
+  Implementation
 
 - Port Filtering and Secure Configurations
 
@@ -88,7 +88,7 @@ My journey in helping family, friends, and coworkers with everyday computer task
 ## Automated IP Allow List Management
 
 Description:
-Designed and Implemented an algorithm to automate the
+Designed and implemented an algorithm to automate the
 management of an IP allow list (allow_list.txt) at my
 organization. The project focused on ensuring secure
 and efficient access control to restricted content by

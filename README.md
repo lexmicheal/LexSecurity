@@ -129,5 +129,5 @@ from the allow list.
 
 - Steamlined the process, resulting in a more secure and
  
-- efficient content access systems
+- efficient content access systems.
 

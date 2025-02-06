@@ -133,3 +133,4 @@ from the allow list.
 
 [![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](PASTE-YOUR-NEW-RAW-LINK-HERE)
 
+[![Automation_Script](https://img.shields.io/badge/-Automation_Script-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white)](https://gist.githubusercontent.com/lexmicheal/ff1068a23da8c7dc831043e528c28707/raw/7fff34ccf042df88324c7e0e1b72a52749c92079/Automation_script.py)

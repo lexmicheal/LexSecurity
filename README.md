@@ -12,23 +12,23 @@ My journey in helping family, friends, and coworkers with everyday computer task
 
 ## skills
 
-Programming Languages: Python, SQL             
+- Programming Languages: Python, SQL             
 
-operating systems: Linux (Bash scripting)
+- operating systems: Linux (Bash scripting)
 
-Network Traffic Monitoring and Attack Detection
+- Network Traffic Monitoring and Attack Detection
 
-Security Automation with Shuffle SOAR
+- Security Automation with Shuffle SOAR
 
-Incident Response Planning and Execution
+- Incident Response Planning and Execution
 
-Scripting and Automation for Threat Mitigation
+- Scripting and Automation for Threat Mitigation
 
-SIEM Implementation and Log Analysis
+- SIEM Implementation and Log Analysis
 
-Case Management with TheHive
+- Case Management with TheHive
 
-Security Tools: Wireshark, Splunk, and TCPdump
+- Security Tools: Wireshark, Splunk, and TCPdump
                                                 
  
 
@@ -50,16 +50,16 @@ Security Tools: Wireshark, Splunk, and TCPdump
 
 ## Expertise
 
-Threat and vulnerability Protection
+- Threat and vulnerability Protection
 
-Incident Detection and Response
+- Incident Detection and Response
 
-Network Security and Traffic Analysis
+- Network Security and Traffic Analysis
 
-Multi-factor Authentication (MFA)
-implementation
+- Multi-factor Authentication (MFA)
+  implementation
 
-Port Filtering and Secure Configurations
+- Port Filtering and Secure Configurations
 
 
 
@@ -100,15 +100,15 @@ from the allow list.
 
 ## Key Features
 
- Developed an algorithm to cross-reference allow_list file
- with a separate remove_list file to identify outdated or
- unauthorized IP addesses.
+- Developed an algorithm to cross-reference allow_list file
+  with a separate remove_list file to identify outdated or
+  unauthorized IP addesses.
 
- Automated the process of updating the allow_list by removing 
- flagged IP addresses.
+- Automated the process of updating the allow_list by removing 
+  flagged IP addresses.
 
- Ensured compliance with access control policies by maintaining
- an up-to-date allow list with minimal manual intervention.
+- Ensured compliance with access control policies by maintaining
+  an up-to-date allow list with minimal manual intervention.
 
 
 ## Tools and Technologies Used:
@@ -121,15 +121,15 @@ from the allow list.
  
 ## Outcome
 
- Eliminated manual errors and reduced the time required to
- update the IP allow list.
+- Eliminated manual errors and reduced the time required to
+  update the IP allow list.
 
- Improved overall security by ensuring unautherized IP 
- addresses were promptly removed.
+- Improved overall security by ensuring unautherized IP 
+  addresses were promptly removed.
 
- Steamlined the process, resulting in a more secure and
+- Steamlined the process, resulting in a more secure and
  
-efficient content access systems
+- efficient content access systems
 
 
 
